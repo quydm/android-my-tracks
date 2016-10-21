@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Tracks</string>
+    <string name="hint_track_name">Enter track\'s name</string>
+    <string name="btn_start_tracking">Start tracking</string>
+    <string name="btn_stop_tracking">Stop tracking</string>
+    <string name="track_name_empty">Track\'s name cannot be blank</string>
+
+</resources>
